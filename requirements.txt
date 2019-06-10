@@ -3,3 +3,4 @@ matplotlib==3.*
 pandas
 ipython
 ipywidgets
+jupyter_contrib_nbextensions
